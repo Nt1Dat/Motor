@@ -1,0 +1,8 @@
+../Core/Src/motor.c:23:6:MotorSetDir	16	static
+../Core/Src/motor.c:39:6:MotorSetDuty	16	static
+../Core/Src/motor.c:46:6:MotorInit	8	static
+../Core/Src/motor.c:59:10:ConvertDegToPulse	24	static
+../Core/Src/motor.c:66:10:ConvertPulseToDeg	24	static
+../Core/Src/motor.c:73:6:MotorGetPulse	16	static
+../Core/Src/motor.c:78:6:MotorMovePos	24	static
+../Core/Src/motor.c:139:6:MotorTuning	32	static
